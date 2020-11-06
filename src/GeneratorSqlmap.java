@@ -8,7 +8,7 @@ import org.mybatis.generator.api.MyBatisGenerator;
 import org.mybatis.generator.config.Configuration;
 import org.mybatis.generator.config.xml.ConfigurationParser;
 import org.mybatis.generator.internal.DefaultShellCallback;
-//你好呀123
+//你好呀123123
 public class GeneratorSqlmap {
 
 	public void generator() throws Exception{
